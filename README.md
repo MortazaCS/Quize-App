@@ -1,4 +1,4 @@
-# Quize-App
+# Quiz Game
 
 This is a simple quiz game implemented in JavaScript. It displays a series of questions with multiple-choice answers, keeps track of the player's score, and allows the player to progress through the questions.
 
@@ -39,3 +39,6 @@ const questions = [
     },
     // Add more questions here
 ];
+```
+
+Simply modify the `questions` array with your own questions and answer choices.
